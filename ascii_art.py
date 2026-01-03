@@ -1,3 +1,4 @@
+# ascii_art.py
 
 STAGES = [
     # Stage 0: Full snowman
@@ -27,3 +28,5 @@ STAGES = [
      /___\\ 
     """
 ]
+
+WORDS = ["python", "git", "github", "snowman", "meltdown"]
